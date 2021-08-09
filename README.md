@@ -4,7 +4,7 @@ and it takes into account Duo authentication.
 
 System requirements:
 - [Selenium](https://pypi.org/project/selenium/)
-- [Geckodriver](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4xvqm8qLyAhWxGqYKHQTvB80QFnoECBkQAw&url=https%3A%2F%2Fgithub.com%2Fmozilla%2Fgeckodriver%2Freleases&usg=AOvVaw0SNTcgCJ-U5zHaleZqKe5q)
+- [Geckodriver](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4xvqm8qLyAhWxGqYKHQTvB80QFnoECBkQAw&url=https%3A%2F%2Fgithub.com%2Fmozilla%2Fgeckodriver%2Freleases&usg=AOvVaw0SNTcgCJ-U5zHaleZqKe5q) (Needs to be saved in PATH)
 
 ## How to Use
 1. Open up your system's terminal
