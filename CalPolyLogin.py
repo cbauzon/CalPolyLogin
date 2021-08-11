@@ -11,6 +11,7 @@ def login_to_cal_poly(usr, passwd):
     psswdfield = browser.find_element_by_id('password')
     psswdfield.send_keys(passwd + Keys.RETURN)
 
+    #browser.title is the string for the tab title
     if browser.title != 'My Cal Poly Portal: Home':
         browser.implicitly_wait(10)
         seq = browser.find_elements_by_tag_name("iframe")
